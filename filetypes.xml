@@ -4,7 +4,9 @@
     <extensionMap>
       <mapping pattern="kevindata" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="protocol" type="PLAIN_TEXT" />
+      <mapping pattern="merge" type="SVG" />
     </extensionMap>
   </component>
 </application>
